@@ -23,3 +23,22 @@
 	
 
 ?>
+
+<br>
+
+<?php
+
+	for($i = 0; $i < $age; $i = $i +1) {
+		//see, mida korratakse
+		echo "palju, ";
+	}
+	echo "õnne";
+?>
+
+<br>
+
+<?php
+
+echo date("l, j, F, Y, e ")
+
+?>
